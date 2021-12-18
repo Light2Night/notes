@@ -1,0 +1,70 @@
+.note_box {
+    margin: 10px 10px 10px 10px;
+    padding: 2px 1px 1px 2px;
+    background-color: rgb(200, 230, 255);
+}
+
+.internal_box {
+    margin: 0px 2px 2px 0px;
+    padding: 0px 15px 0px 15px;
+    width: 350px;
+}
+
+.note_border {
+    border: 2px solid navy;
+}
+
+.box_style {
+    font-size: 18px;
+}
+
+.align {
+    float: left;
+}
+
+form {
+    width: 800px;
+    background-color: rgb(200, 230, 255);
+    margin: 0px 2px 2px 0px;
+    padding: 5px 5px 5px 5px;
+}
+
+.min_HW {
+    height: 50px;
+    width: 300px;
+}
+
+.button_box {
+    margin: 10px 10px 10px 10px;
+    padding: 2px 1px 1px 2px;
+    background-color: rgb(185, 255, 232);
+}
+
+.internal_button_box {
+    margin: 0px 2px 2px 0px;
+    padding: 0px 5px 0px 5px;
+    float: left;
+}
+
+.button_text {
+    text-align: center;
+    font-size: 22px;
+}
+
+.float_left {
+    float: left;
+}
+
+.id_input {
+    width: 98%;
+    height: 20px;
+}
+
+.text_input {
+    width: 98%;
+    height:100px;
+}
+
+.margin_input {
+    margin: 5px 5px 5px 5px;
+}
